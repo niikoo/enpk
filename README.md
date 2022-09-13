@@ -40,7 +40,7 @@ Ctrl (unchanged)
 
 Ctrl+Shift (unchanged)
 
-![Ctrl+Shift modifier](https://github.com/niikoo/enpk/raw/main/images/ENPK_USShiftCtrl.jpg)
+![Ctrl+Shift modifier](https://github.com/niikoo/enpk/raw/main/images/ENPK_USShftCtrl.jpg)
 
 ## Thanks to
 
