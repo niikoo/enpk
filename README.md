@@ -20,27 +20,27 @@
 
 Default
 
-![Default (no modifiers)](https://github.com/niikoo/enpk/blob/master/images/ENPK_US.jpg?raw=true)
+![Default (no modifiers)](https://github.com/niikoo/enpk/raw/main/images/ENPK_US.jpg)
 
 Shift
 
-![Shift modifier](https://github.com/niikoo/enpk/blob/master/images/ENPK_USShft.jpg?raw=true)
+![Shift modifier](https://github.com/niikoo/enpk/raw/main/images/ENPK_USShft.jpg)
 
 AltGr (Ctrl+Alt)
 
-![AltGr modifier](https://github.com/niikoo/enpk/blob/master/images/ENPK_USAltGr.jpg?raw=true)
+![AltGr modifier](https://github.com/niikoo/enpk/raw/main/images/ENPK_USAltGr.jpg)
 
 Shift+AltGr (Shift+Ctrl+Alt)
 
-![Shift+AltGr modifiers](https://github.com/niikoo/enpk/blob/master/images/ENPK_USShftAltGr.jpg?raw=true)
+![Shift+AltGr modifiers](https://github.com/niikoo/enpk/raw/main/images/ENPK_USShftAltGr.jpg)
 
 Ctrl (unchanged)
 
-![Ctrl modifier](https://github.com/niikoo/enpk/blob/master/images/ENPK_USCtrl.jpg?raw=true)
+![Ctrl modifier](https://github.com/niikoo/enpk/raw/main/images/ENPK_USCtrl.jpg)
 
 Ctrl+Shift (unchanged)
 
-![Ctrl+Shift modifier](https://github.com/niikoo/enpk/blob/master/images/ENPK_USShiftCtrl.jpg?raw=true)
+![Ctrl+Shift modifier](https://github.com/niikoo/enpk/raw/main/images/ENPK_USShiftCtrl.jpg)
 
 ## Thanks to
 
